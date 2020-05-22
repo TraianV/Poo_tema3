@@ -1,0 +1,12 @@
+pop stiva
+push stiva 1+i
+afis stiva
+pop coada
+push stiva -i
+push stiva i
+push coada 1+i
+push stiva 1.5
+afis stiva
+push coada -1.4
+push coada i
+afis coada
